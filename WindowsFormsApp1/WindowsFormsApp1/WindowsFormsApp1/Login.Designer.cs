@@ -72,7 +72,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::WindowsFormsApp1.Properties.Resources.people_exhibition_helsingborg_dunkers_utst_llning_m_nniska_dunkerskulturhus_452727;
-            this.ClientSize = new System.Drawing.Size(1345, 811);
+            this.ClientSize = new System.Drawing.Size(1331, 731);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
